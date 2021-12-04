@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoActivity</string>
+    <string-array name="listVideo">
+        <item>Bài 1: Giới thiệu Android</item>
+        <item>Bài 2: Cài đặt môi trường lập trình</item>
+        <item>Bài 3:Tạo project HelloWorld</item>
+        <item>Bài 4: Các thành phần giao diện cơ bản (phần 1)</item>
+        <item>Bài 5: Các thành phần giao diện cơ bản (phần 2)</item>
+        <item>Bài 6:Tạo giao diện đăng nhập</item>
+        <item>Bài 7:Intent và Manifest</item>
+        <item>Bài 8:ListView trong android</item>
+    </string-array>
+</resources>
